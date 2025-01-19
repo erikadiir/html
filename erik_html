@@ -13,7 +13,7 @@
         }
 
         header {
-            background-color: vermelho;
+            background-color: red;
             color: white;
             padding: 10px 0;
             text-align: center;
@@ -23,12 +23,12 @@
             width: 80%;
             margin: 0 auto;
             padding: 20px;
-            background-color: azul;
+            background-color: blue;
             box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
         }
 
         footer {
-            background-color: vermelho;
+            background-color: red;
             color: white;
             text-align: center;
             padding: 10px;
@@ -42,7 +42,7 @@
         }
 
         nav a {
-            color: #4CAF50;
+            color: blue;
             margin: 0 10px;
             text-decoration: none;
             font-weight: bold;
